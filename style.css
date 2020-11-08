@@ -8,3 +8,15 @@ font-family: sans-serif;
     height: 100%;
   background: #493843;
 }
+
+.menu ul{
+    display   : inline-flex;
+    margin: 50px;
+}
+
+.menu ul li{
+    list-style:none;
+    margin: 0 20px;
+    color: #61988E;
+    cursor: pointer;
+}
