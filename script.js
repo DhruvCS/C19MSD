@@ -1,3 +1,5 @@
-function revealMessage() {
-    document.getElementById("hiddenMessage").style.display = 'block';
+*{
+    margin: 0;
+    padding: 0;
+    font-family: avenir;
 }
